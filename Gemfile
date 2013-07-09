@@ -10,16 +10,9 @@ gem 'mysql2'#, group: [:development, :test]
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
-gem 'bootstrap-sass'
 #gem 'compass-rails', :git => "https://github.com/Compass/compass-rails.git", :branch => "rails4"
 
 gem 'protected_attributes'
-gem 'puma'
-gem 'will_paginate'
-gem 'paperclip'
-gem 'aws-sdk'
-
-gem 'rails_12factor'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
